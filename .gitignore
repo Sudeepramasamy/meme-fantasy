@@ -1,0 +1,38 @@
+# dependencies
+node_modules/
+venv/
+.pnp
+.pnp.js
+
+# testing
+coverage/
+
+# production
+build/
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python virtual environments
+backend/venv/
+frontend/venv/
+
+# Cache and compiled files
+__pycache__/
+*.pyc
+*.log
+
+# Include source files
+!backend/**/*.py
+!frontend/**/*.js
+!frontend/**/*.css
+!memes_app/**/*.js
+!memes_app/**/*.css

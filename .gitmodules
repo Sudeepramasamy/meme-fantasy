@@ -1,0 +1,3 @@
+[submodule "backend/memes_world"]
+	path = backend/memes_world
+	url = https://github.com/Sudeepramasamy/meme-fantasy.git
